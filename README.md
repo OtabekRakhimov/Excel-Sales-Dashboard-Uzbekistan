@@ -1,5 +1,4 @@
 📊 Sales Performance Dashboard (Excel)
-
 🔹 Project Overview
 This project analyzes sales performance data using Microsoft Excel.
 An interactive dashboard was built to track key business metrics and identify sales trends.
@@ -23,5 +22,6 @@ Sales performance varies significantly across regions
 Monthly trend analysis shows clear seasonality patterns
 
 🔹 Deliverables
+Cleaned sales dataset
 Interactive Excel dashboard
 KPI analysis using Pivot Tables
