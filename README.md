@@ -1,9 +1,9 @@
 📊 Sales Performance Dashboard (Excel)
-🔹 Project Overview
+🔹 Project Overview:
 This project analyzes sales performance data using Microsoft Excel.
 An interactive dashboard was built to track key business metrics and identify sales trends.
 
-🔹 Objectives
+🔹 Objectives:
 Calculate total sales revenue,
 Identify top-selling products by revenue,
 Analyze sales performance by region and time,
