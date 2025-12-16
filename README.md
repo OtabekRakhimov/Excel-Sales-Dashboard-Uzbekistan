@@ -1,4 +1,5 @@
 📊 Sales Performance Dashboard (Excel)
+
 🔹 Project Overview:
 This project analyzes sales performance data using Microsoft Excel.
 An interactive dashboard was built to track key business metrics and identify sales trends.
